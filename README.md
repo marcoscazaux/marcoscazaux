@@ -21,4 +21,8 @@ Passionate, self-taught, responsible, committed and motivated for new challenges
 - <a href="https://twitter.com/Marcos_Cazaux">Twitter</a>
 
 
-## See you! 😉
+### See you! 😉
+
+---
+
+##### Accenture · Adaptive Web Design (AWD) · Adobe Creative Suite · Agile Methodologies · Amazon Web Services (AWS) · Angular · BEM · Bitbucket · Bootstrap · Cloud Computing · Commerce Cloud · Cross-browser Compatibility · Cross-functional · CSS · eCommerce · Front-End Development · Git · Google Lighthouse Audit · Google Webmaster Tools · HTML5 · Indra · ITCCS · JavaScript · Leadership · Microfrontend · Minsait · Mobile First Design (MFD) · Mobile Web Design (MWD) · npm · NTTData · Pixel Perfect Design (PPD) · Primefaces · Progressive Web Applications (PWA) · Responsive Web Design (RWD) · RESTful · RxJS · SAP · SASS · Single Page Applications (SPA) · Sonarqube · Spartacus · Storefront · Team Leadership · Technical Leadership · TypeScript · User Experience (UX) · Web Applications · Web Development · WebServices · WebSocket · Wireframing
