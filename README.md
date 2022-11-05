@@ -1,5 +1,5 @@
 # Hi, I'm Marcos Cazaux 👋🏼👨🏻‍💻
-I'm a Software Architect, Front-End and UX/UI specialist, focused on SAP Spartacus development and a Metaverse advocate.
+I'm a Software Architect, Front-End & UX/UI specialist, focused on SAP Spartacus development and a Metaverse advocate.
 
 With over 20 years of experience in IT, Marketing and Design, I have oriented my professional career to Web Development, Team and Technical Leader based in JavaScript / Typescript technologies (Angular, React, VueJS, etc.)
 
@@ -13,13 +13,14 @@ I´m passionate about my profession. I attend various talks, courses, and clubs 
 
 Passionate, self-taught, responsible, committed and motivated for new challenges with an entrepreneurial and creative attitude. Always open to sharing knowledge and challenges with colleagues, managers and IT enthusiasts.
 
+Thanks for reading, see you! 😉
+
+
 ## Find me around the web 🌎:
 - <a href="https://marcoscazaux.com">Professional Website</a>
 - <a href="https://linkedin.com/in/marcoscazaux">LinkedIn</a>
 - <a href="https://marcoscazaux.github.io">GitHub Pages</a>
 - <a href="https://twitter.com/Marcos_Cazaux">Twitter</a>
-
-### See you! 😉
 
 ---
 
