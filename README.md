@@ -16,7 +16,6 @@ Passionate, self-taught, responsible, committed and motivated for new challenges
 ## Find me around the web 🌎:
 - <a href="https://marcoscazaux.com">Professional Website</a>
 - <a href="https://linkedin.com/in/marcoscazaux">LinkedIn</a>
-- <a href="https://github.com/MarcosCazaux">GitHub Profile</a>
 - <a href="https://marcoscazaux.github.io">GitHub Pages</a>
 - <a href="https://twitter.com/Marcos_Cazaux">Twitter</a>
 
