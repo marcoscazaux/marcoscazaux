@@ -1,17 +1,13 @@
 # Hi, I'm Marcos Cazaux 👋🏼👨🏻‍💻
-I'm a Software Architect, Front-End & UX/UI specialist, focused on SAP Spartacus development and a Metaverse advocate.
+I am a Team & Tech Lead, SAP CX Commerce Cloud Composable Storefront architect, AWS Cloud certified, and Software architect. Additionally, I am Front-End, Angular architect and have a keen interest in XR (Extended Reality). With over 20 years of experience in IT, Marketing, and Design, my professional journey has been centered around Web Development, where I have excelled in roles such as Team and Technical Lead, focusing on Angular/Typescript technologies.
 
-With over 20 years of experience in IT, Marketing and Design, I have oriented my professional career to Web Development, Team and Technical Leader based in JavaScript / Typescript technologies (Angular, React, VueJS, etc.)
+Currently, I contribute my expertise at the Accenture Advanced Technology Centre EMEA South . Prior to this, I have held positions in prominent companies like Minsait/INDRA and NTTData. Throughout my career, I have had the privilege of contributing to remarkable projects for esteemed companies and organizations, including EUIPO, Invesis Bank, Evo Bank, Santander Bank, Orange, Jazztel, Acciona, Heineken, Department of Justice and Interior of Generalitat Valenciana, Paco Rabanne, Kama Ayurveda, L'Artisan Parfumeur, Carolina Herrera, among others.
 
-Currently, I´m working in Advanced Technology Centre (ATC) in Accenture Spain. Previously I have worked in other biggest companies as Minsait/INDRA and NTTData. For all this, I have had the honor to participate in amazing projects of important companies or organizations as WIPO, Invesis Banck, Evo Bank, Santander Bank, Orange, Jazztel, Acciona, Heineken, Valencian Community, Paco Rabanne, and other.
+I have actively participated in the entire life cycle of various IT projects, encompassing consulting, planning, development, implementation, maintenance, and support. Engaging directly with stakeholders, customers, suppliers, and partners has been a key aspect of my role, and I have thoroughly enjoyed every phase of the projects. My extensive professional experience and direct client interaction have equipped me with a business-oriented approach.
 
-I been participated in the entire lifecycle of various IT projects, including consulting, planning, development, implementation, maintenance and support. I have played a key role in directly managing key stakeholders, customers, suppliers and collaborators, enjoying each project phase. My professional experience and direct contact with clients and users allow me to have a business and user focus.
+During my early years, I worked in advertising and marketing agencies, gaining valuable insights and experience in the captivating world of design. This background provides me with a solid foundation in user vision and usability, which I consider crucial for the development of contemporary digital products and emerging technological opportunities like Metaverse and Extended Reality (XR).
 
-I've worked for advertising and marketing agencies in my early years, where I gained knowledge and experience in the fascinating design world. This experience allows me to have a robust user interface and usability base, which I consider vital for developing current digital products and the new tech opportunities as Metaverse, Extended Reality (XR) and other.
-
-I´m passionate about my profession. I attend various talks, courses, and clubs and participate in volunteer and coaching projects related to the world of technology, the environment and social inclusion. I´m especially interested in Metaverse, Extended Reality (XR) and all his variant of this amazing and revolutionary sector, in which I'm an autodidact.
-
-Passionate, self-taught, responsible, committed and motivated for new challenges with an entrepreneurial and creative attitude. Always open to sharing knowledge and challenges with colleagues, managers and IT enthusiasts.
+I am deeply passionate about my profession, actively participating in talks, courses, and clubs. I also engage in volunteering and coaching projects related to technology, the environment, and social inclusion. Described as passionate, self-taught, responsible, committed, and motivated by new challenges, I embrace an entrepreneurial and creative attitude. I am always open to sharing knowledge and challenges with colleagues, managers, and fellow IT enthusiasts.
 
 Thanks for reading, see you! 😉
 
@@ -19,10 +15,13 @@ Thanks for reading, see you! 😉
 ## Find me around the web 🌎:
 - <a href="https://marcoscazaux.com">Professional Website</a>
 - <a href="https://linkedin.com/in/marcoscazaux">LinkedIn</a>
-- <a href="https://marcoscazaux.github.io">GitHub Pages</a>
+- <a href="https://stackoverflow.com/users/13134649/marcos-cazaux">Stack Overflow</a>
+- <a href="https://dev.to/marcoscazaux">DEV Community</a>
+- <a href="https://www.instagram.com/marcos.cazaux">Instagram</a>
+- <a href="https://www.youtube.com/@MarcosCazaux">Youtube</a>
 - <a href="https://twitter.com/Marcos_Cazaux">Twitter</a>
 
 ---
 
 #####
-Adobe Creative Suite (ACS) · Agile Methodologies · Amazon Web Services (AWS) · Angular · Augmented Reality (AR) · Block, Element, Modifier Methodology (BEM) · Claris Filemaker · Cross-browser Compatibility · CSS3 · Database Modelling · E-Commerce · Extended Reality (XR) · Front-End · Functional Analysis · Google Analytics · Google Cloud Platform (GCP) · Google Lighthouse Audit · Graphic Design · Inverted Triangle CSS (ITCSS) · Leadership · Metaverse · Micro-Frontend Architecture · Microsoft Azure · Mixed Reality (MR) · Mobile First Design (MFD) · Mobile Web Design (MWD) · MySQL · Pixel Perfect Design (PPD) · Progressive Web Applications (PWA) · React · Responsive Web Design (RWD) · RxJS · SAP Spartacus · SASS · Search Engine Optimization (SEO) · Semantic HTML5 · Single Page Applications (SPA) · Software Architecture · Sonarqube · Team Leadership · Technical Leadership · Three.js · TypeScript · Unified Modeling Language (UML) · Unity 3D · User Experience (UX) · User Interface (UI) · Virtual Reality (VR) · WebGL
+Agile Methodologies - Amazon Web Services - Angular - Augmented Reality - Claris Filemaker - CSS3 - Database Modelling - E-Commerce - Extended Reality - Front-End - Functional Analysis - Google Analytics - Google Cloud Platform - Google Lighthouse Audit - Graphic Design - Inverted Triangle CSS - Metaverse - Micro-Frontend Architecture - Microsoft Azure - Mixed Reality - Mobile First Design - MySQL - React - Responsive Web Design - SAP CX Commerce Cloud Composable Storefront (formerly Spartacus) - SASS - Search Engine Optimization - Semantic HTML5 - Single Page Applications - Software Architecture - Team Lead - Technical Lead - Three.js - TypeScript - Unified Modeling Language - Unity 3D - User Experience - User Interface - Virtual Reality - WebGL - Progressive Web Applications - Block, Element, Modifier Methodology
